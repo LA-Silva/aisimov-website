@@ -1,0 +1,6 @@
+{
+  "name": "Aisimov",
+  "description": "A modern, one-page landing page for the AI startup Aisimov.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
